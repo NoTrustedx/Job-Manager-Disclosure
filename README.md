@@ -22,7 +22,7 @@ Instala las dependencias ejecutando:
 pip install -r requirements.txt
 ````
 
-### 📦 requirements.txt
+### 📦 `requirements.txt`
 ```txt
 requests
 tqdm
