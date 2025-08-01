@@ -76,7 +76,7 @@ Enter end year (e.g. 2019): 2019
 
 ## 📂 Archivos
 
-* `scanner.py`: Script principal.
+* `jobmanagerdisclosure.py`: Script principal.
 * `requirements.txt`: Librerías necesarias.
 * `found_cv_urls.txt`: Archivo generado con URLs encontradas.
 * `README.md`: Documentación del proyecto.
