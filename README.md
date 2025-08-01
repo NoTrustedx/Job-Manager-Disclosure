@@ -20,20 +20,9 @@ Instala las dependencias ejecutando:
 
 ```bash
 pip install -r requirements.txt
-
----
-
-
-## 🛠️ Requisitos
-
-Instala las dependencias ejecutando:
-
-```bash
-pip install -r requirements.txt
 ````
----
 
-### 📦 `requirements.txt`
+### 📦 requirements.txt
 ```txt
 requests
 tqdm
@@ -76,8 +65,3 @@ Enter end year (e.g. 2019): 2019
 ## ⚠️ Disclaimer
 
 Este script se proporciona **solo con fines educativos**. No está destinado a ser utilizado en sistemas sin autorización explícita. El uso no autorizado de este script puede ser ilegal.
-
-````
-
-
-
